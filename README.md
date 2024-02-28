@@ -13,7 +13,6 @@ This project is a full stack e-commerce website built with Next js. I created th
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
 - [Acknowledgments](#acknowledgments)
 - [Getting Started](#getting-started)
 
@@ -87,10 +86,6 @@ The development of this project can be continued by adding a search filter funct
 - [Customize Prev/Next Button of Swiper Arrows](https://www.timo-ernst.net/blog/2020/09/12/arrows-in-react-swiper-js-how-to-customize-prev-next-button/)
 
 
-## Author
-
-- Github - [Shabrina Putri](https://github.com/shabrina12/)
-- Instagram - [@shabputri_](https://www.instagram.com/shabputri_/)
 
 
 ## Acknowledgments
