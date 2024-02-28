@@ -13,7 +13,6 @@ This project is a full stack e-commerce website built with Next js. I created th
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
 - [Acknowledgments](#acknowledgments)
 - [Getting Started](#getting-started)
 
